@@ -14,9 +14,10 @@ margin: 0;
 p {
     color: #EBE7D4;
     padding-top: 30px;
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 400;
-	text-align: justify
+	text-align: justify;
+	line-height: 1.2
 }
 
 h1 {
@@ -24,13 +25,13 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: oblique;
-	font-size: 4em;
+	font-size: 3em;
 	color: #ECCA45; 
 	text-align: center
 }
 
 .strongp{
-	color: #191D33; 
+	color: #EBE7D4; 
 	text-align: center
 }
 
@@ -40,7 +41,7 @@ h2 {
   font-weight: 800;
   font-style: oblique;
 	color: #ECCA45; 
-	font-size: 3em;
+	font-size: 2.0em;
 	padding-top: 100px;
 	text-align: center
 }
@@ -49,7 +50,7 @@ h3{
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: oblique;
-	font-size: 2em;
+	font-size: 1.5em;
 	color: #ECCA45; 
 	padding-top: 100px;
 		text-align: center
@@ -75,11 +76,11 @@ address{
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
-	padding: 15px 30px;
-	border-radius: 4px;
-	font-family: "Zalando Sans Expanded", sans-serif;
-	font-style: oblique;
-	font-size: 1.5em;
+	padding: 15px 40px;
+	border-radius: 100px;
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 1em;
 	 font-weight: 800;
 	
 }
@@ -87,9 +88,9 @@ address{
 .button:hover {
 	background-color: #808EE3;
 	color: #181D36;
-	font-family: "Zalando Sans Expanded", sans-serif;
-	font-style: oblique;
-	font-size: 1.5em;
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 1em;
 	 font-weight: 800;
 }
 
@@ -144,10 +145,10 @@ section{
 
 q{
 	color: #EBE7D4;
-	font-size: 1.5em;
-	letter-spacing: 1.2px;
+	font-size: 1.25em;
+	letter-spacing: 1px;
 	 font-family: "Zalando Sans Expanded", sans-serif;
-	 font-style: oblique;
+	 font-style: normal;
 	 font-weight: 400;
 	
 	
